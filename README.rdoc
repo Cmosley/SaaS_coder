@@ -4,6 +4,9 @@ Coder Manual Project Application
 Subscription-based web application
 https://codermanual.com
 
+afternoon-lowlands-3279.herokuapp.com
+https://coder-manual-cmosley.c9users.io/
+
 Things you may want to cover:
 
 * Ruby version
